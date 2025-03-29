@@ -29,6 +29,7 @@
 
     &:hover {
       transform: translateY(-20px);
+      transition: 0.5;
       background-color: pink;
     }
   }
